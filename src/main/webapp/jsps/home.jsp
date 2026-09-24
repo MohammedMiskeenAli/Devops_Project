@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Sphoorthy Technologies</h1>
+<h1 align="center">Welcome to Sphoorthy Technologies India</h1>
 <h1 align="center">Phone Number: +91 9900990099</h1>
 <h1 align="center">Sphoorthy Technologies is a Very Good Training Centre for Learning AWS DevOps, Jenkins, Docker, Kubernetes, GitOps, ArgoCD, Terraform and Amazon Web Services</h1>
 
